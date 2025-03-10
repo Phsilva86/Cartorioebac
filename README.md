@@ -1,2 +1,0 @@
-# Cartorioebac
-Projeto Ebac TI
